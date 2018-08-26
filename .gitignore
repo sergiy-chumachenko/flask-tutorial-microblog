@@ -24,3 +24,6 @@ htmlcov/
 microblog.log
 secret.py
 logs/
+
+app.db
+migrations/
